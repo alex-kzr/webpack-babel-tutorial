@@ -1,0 +1,1 @@
+node_modules/.bin/babel before.js -o after.js  - converst code from before.js to after.js
