@@ -1,1 +1,1 @@
-node_modules/.bin/babel before.js -o after.js  - converst code from before.js to after.js
+node_modules/.bin/babel src/index.js -o dist/assets/bundle.js  - converst code from src/index.js to dist/assets/bundle.js
