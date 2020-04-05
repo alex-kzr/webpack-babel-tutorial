@@ -13,3 +13,7 @@ npm install webpack webpack-cli --save-dev      - install webpack and set as a d
 node_modules/.bin/webpack    - pack code from source using configs
 
 npm run webpack  - run script added to package.json
+
+npm install webpack-dev-server --save-dev      - install webpack dev server
+
+npm run serve    - run webpack dev server
