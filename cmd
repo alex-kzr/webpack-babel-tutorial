@@ -19,3 +19,5 @@ npm install webpack-dev-server --save-dev      - install webpack dev server
 npm run serve    - run webpack dev server
 
 npm run build     - build bundle for production
+
+npm install babel-loader --save-dev          - install babel-loader for using with webpack
