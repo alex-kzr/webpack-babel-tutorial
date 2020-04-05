@@ -17,3 +17,5 @@ npm run webpack  - run script added to package.json
 npm install webpack-dev-server --save-dev      - install webpack dev server
 
 npm run serve    - run webpack dev server
+
+npm run build     - build bundle for production
