@@ -1,5 +1,5 @@
 import {styleBody, addTitle, name} from './dom';
+import users, {getPremUsers} from './data';
 
-console.log(name);
-addTitle('test');
-styleBody();
+console.log(users);
+console.log(getPremUsers(users));
